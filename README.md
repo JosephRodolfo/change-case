@@ -1,3 +1,7 @@
+# Forked Change Case
+
+A practice fork to add support for title case specific to the rules of several style guides, APA, MLA, and Chicago namely, including updating relevant tests, as well as to explore TypeScript.
+
 # Change Case
 
 [![Build status](https://img.shields.io/travis/blakeembrey/change-case.svg?style=flat)](https://travis-ci.com/blakeembrey/change-case)
